@@ -5,6 +5,7 @@ List of projects I would like to
 * Omnidirectional Robot
 * Pull up force meter
 * Bike hook
+* Anti-dog couch cam
 
 
 ## Doing
